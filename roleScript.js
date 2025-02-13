@@ -5,7 +5,7 @@ var typeData = new Typed(".role", {
       "a UI-UX Designer",
       "a Backend Developer",
       "a Coder",
-      "Aayush Bharti",
+      "Ashish Kumar Jha",
     ],
     loop: true,
     typeSpeed: 100,

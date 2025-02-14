@@ -1,10 +1,10 @@
 var typeData = new Typed(".role", {
     strings: [
+      "a Software Engineer",
+      "an AI Engineer",
       "a Full Stack Developer",
-      "a Web Developer",
-      "a UI-UX Designer",
       "a Backend Developer",
-      "a Coder",
+      "a passionate coder",
       "Ashish Kumar Jha",
     ],
     loop: true,

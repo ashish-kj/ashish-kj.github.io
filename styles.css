@@ -740,7 +740,7 @@ a {
 }
 
 #project1 {
-  background-image: url(./projects/razorpay.jpg);
+  background-image: url(./projects/slackbot.png);
   right: 5%;
   margin-top: 5rem;
 }
@@ -751,12 +751,12 @@ a {
 }
 
 #project3 {
-  background-image: url(/projects/Password\ generator.jpg);
+  background-image: url(/projects/bioid.jpg);
   right: 5%;
 }
 
 #project4 {
-  background-image: url(/projects/Project4.png);
+  background-image: url(/projects/phishingdetection.jpg);
   left: 5%;
 }
 

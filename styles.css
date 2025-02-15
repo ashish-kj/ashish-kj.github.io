@@ -39,6 +39,28 @@
   margin: 0 auto;
 }
 
+.projectSubtitle {
+  font-size: 1.1rem; /* Adjust the font size as needed */
+  color: #aaa; /* A lighter color to make it a subtitle, you can change this */
+  text-align: center; /* Center align the text */
+  margin-top: 1rem; /* Add some space between the "Projects" title and subtitle */
+  margin-bottom: 2rem; /* Add space below the subtitle before the project cards */
+  padding: 0 20px; /* Add some horizontal padding if needed, adjust the value */
+  line-height: 1.6; /* Improve readability by adjusting line height */
+}
+
+.projectSubtitle a {
+  color: inherit; /* Inherit the color from the .projectSubtitle */
+  text-decoration: underline; /* Keep the underline for link indication */
+}
+
+@media (max-width: 768px) { /* Example media query for smaller screens */
+  .projectSubtitle {
+    font-size: 1rem; /* Slightly smaller font size on smaller screens */
+    padding: 0 10px; /* Adjust padding for smaller screens */
+  }
+}
+
 
 
 

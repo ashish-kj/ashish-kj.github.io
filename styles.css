@@ -16,14 +16,6 @@
   font-family: "Be Vietnam Pro", sans-serif;
   color: white;
   scroll-behavior: smooth;
-  /* user-select: none;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  -webkit-user-drag: none; */
 }
 
 :root {
@@ -35,8 +27,6 @@
   height: 100vh;
   background-color: black;
   position: relative;
-
-  /* width: 100vw; dont do this*/
   overflow-y: auto;
   overflow-x: hidden;
   scroll-behavior: smooth;
@@ -528,7 +518,7 @@ a {
 .frontSide,
 .frontSide::before {
 
-  background-image: url("/userAsset/Ashish_flower.jpg");
+  background-image: url("/userAsset/ashish_flower.png");
   background-size: cover;
   background-position: center;
 
